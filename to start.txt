@@ -1,0 +1,2 @@
+in terminal:
+npm run serve
